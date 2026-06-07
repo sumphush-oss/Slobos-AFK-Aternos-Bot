@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "BodinSMP2-sqeM.aternos.me",
-    "port": 12537,
+    "ip": "BodinSMP.aternos.me",
+    "port": 44476,
     "version": "",
     "try-creative": false
   },
